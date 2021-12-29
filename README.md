@@ -1,4 +1,7 @@
 # Personal-Project
+## CS715HWRMI
+## Computational Financial
+## Data Analytics Project：some parts of screenshot
 
 ![image](https://github.com/changlc125/Personal-Project/blob/main/Data%20Analytics%20Project/Sceenshot/FinalProject-allSteps.png)
 ![image](https://github.com/changlc125/Personal-Project/blob/main/Data%20Analytics%20Project/Sceenshot/FinalProject-EDA%201.png)
